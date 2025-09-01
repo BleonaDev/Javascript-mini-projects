@@ -1,0 +1,32 @@
+body{
+    background:linear-gradient(rgb(215, 215, 215),rgb(65, 65, 65));
+    height:100vh;
+}
+.div1{
+    margin-top:120px;
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    align-items:center;
+}
+label{
+   font-size:20px;
+}
+button{
+    padding:10px 20px;
+    border-radius:10px;
+    background-color:blue;
+    color:white;
+    font-size:20px;
+    cursor:pointer;
+}
+input{
+    border-radius:5px;
+    height:35px;
+    text-align:center;
+}
+#result{
+    text-align:center;
+    font-size:2em;
+    font-weight:bolder;
+}
