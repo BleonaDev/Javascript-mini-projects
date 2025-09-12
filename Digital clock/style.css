@@ -1,0 +1,20 @@
+body{
+    margin:0;
+}
+.clock-container{
+    background-image:url(image2.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+#clock{
+    font-size:6.5rem;
+    font-weight:bolder;
+    background-color:rgb(209, 204, 204,0.5);
+    border-radius:10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
