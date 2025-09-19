@@ -25,6 +25,10 @@ input{
     height:35px;
     text-align:center;
 }
+#images img{
+    height:200px;
+    width:200px;
+}
 #result{
     text-align:center;
     font-size:2em;
