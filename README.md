@@ -34,7 +34,7 @@ Built with vanilla HTML, CSS, and JavaScript.
 A simple digital clock that displays the current time in real-time.  
 Built with vanilla HTML, CSS, and JavaScript.
 
-![Digital Clock Screenshot 1](Digital%20Clock/screenshot1.jpg)
+![Digital Clock Screenshot 1](Digital%20clock/screenshot1.jpg)
 
 ## How to Use
 
@@ -46,7 +46,7 @@ Built with vanilla HTML, CSS, and JavaScript.
 A simple tool to convert between different units of length (meters, kilometers, miles, feet, etc.).  
 Built with vanilla HTML, CSS, and JavaScript.
 
-![Length Converter Screenshot 1](Length%20Converter/screenshot1.jpg)
+![Length Converter Screenshot 1](Length%20converter/screenshot1.jpg)
 
 ## How to Use
 
@@ -88,7 +88,7 @@ Features:
 - Automatic saving with `localStorage`
 - Responsive layout with modern styling for a pleasant user experience
 
-![To-Do App Screenshot 1](Todo-App/todo-app-screenshot1.png)
+![To-Do App Screenshot 1](Todo-App/todo-app-screenshot2.png)
 
 ## How to Use
 1. Clone the repository or download the project files.
