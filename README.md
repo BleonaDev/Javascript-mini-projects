@@ -22,7 +22,7 @@ Built with vanilla HTML, CSS, and JavaScript.
 A fun dice roller that simulates rolling one or more dice with random results.  
 Built with vanilla HTML, CSS, and JavaScript.
 
-![Dice Roller Screenshot 1](Dice roller/screenshot1.jpg)
+![Dice Roller Screenshot 1](Dice%20roller/screenshot1.jpg)
 
 ## How to Use
 
@@ -34,7 +34,7 @@ Built with vanilla HTML, CSS, and JavaScript.
 A simple digital clock that displays the current time in real-time.  
 Built with vanilla HTML, CSS, and JavaScript.
 
-![Digital Clock Screenshot 1](Digital Clock/screenshot1.jpg)
+![Digital Clock Screenshot 1](Digital%20Clock/screenshot1.jpg)
 
 ## How to Use
 
@@ -46,7 +46,7 @@ Built with vanilla HTML, CSS, and JavaScript.
 A simple tool to convert between different units of length (meters, kilometers, miles, feet, etc.).  
 Built with vanilla HTML, CSS, and JavaScript.
 
-![Length Converter Screenshot 1](Length Converter/screenshot1.jpg)
+![Length Converter Screenshot 1](Length%20Converter/screenshot1.jpg)
 
 ## How to Use
 
@@ -71,7 +71,7 @@ Built with vanilla HTML, CSS, and JavaScript.
 A simple tool to convert temperatures between Celsius, Fahrenheit, and Kelvin.  
 Built with vanilla HTML, CSS, and JavaScript.
 
-![Temperature Converter Screenshot 1](Temperature converter/screenshot1.jpg)
+![Temperature Converter Screenshot 1](Temperature%20converter/screenshot1.jpg)
 
 ## How to Use
 
