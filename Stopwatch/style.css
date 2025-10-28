@@ -60,3 +60,15 @@ background-color:hsl(120, 100%, 15%);
 #reset:hover{
     background-color:hsl(39, 100%, 40%);
 }
+@media (max-width: 500px) {
+    #title{
+    font-size:3rem;
+}
+#display{
+font-size:3rem;
+}
+    #controls button{
+      font-size:1.5rem; 
+      width:120px; 
+    }
+}
