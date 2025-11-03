@@ -62,6 +62,11 @@ background-color:hsl(120, 100%, 15%);
     background-color:hsl(39, 100%, 40%);
 }
 @media (max-width: 500px) {
+    #controls {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap; 
+}
     #controls button {
         font-size: 1.5rem;
         width: 106px; 
