@@ -61,6 +61,12 @@ background-color:hsl(120, 100%, 15%);
     background-color:hsl(39, 100%, 40%);
 }
 @media (max-width: 500px) {
+    #controls button {
+    font-size: 1.5rem;
+    width: 30%;
+    min-width: 80px; 
+    margin: 5px; 
+  }
     #title{
     font-size:3rem;
 }
