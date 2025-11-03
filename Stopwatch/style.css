@@ -41,6 +41,7 @@ text-shadow:3px 3px 7px hsla(0, 1%, 17%, 0.5);
     cursor:pointer;
     color:white;
     transition:0.2s ease;
+    text-align:center;
 }
 #start{
 background-color:hsl(120, 100%, 25%);
@@ -63,9 +64,9 @@ background-color:hsl(120, 100%, 15%);
 @media (max-width: 500px) {
     #controls button {
         font-size: 1.5rem;
-        width: 30%;
-        min-width: 80px; 
+        width: 106px; 
         margin: 5px; 
+        padding:2px 5px;
     }
     #title{
     font-size:3rem;
